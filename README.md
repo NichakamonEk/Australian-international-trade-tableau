@@ -54,5 +54,5 @@ This project investigates Australia’s international trade performance from 198
 ---
 
 ## ▸ Repository Contents
-▪️ /report — final visual analytics report and interpretation  
-▪️ /data — dataset and calculation workbook used for analysis  
+▪️ [Report](./report) — final visual analytics report and interpretation  
+▪️ [Data](./data) — dataset and calculation workbook used for analysis  
